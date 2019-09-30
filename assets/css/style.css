@@ -33,8 +33,8 @@
   /* start */
   #start {
     position: relative;
-    margin-top: 150px;
-    height: 600px; /* DEBUG:  */
+    margin-top: 100px;
+    height: 700px; /* DEBUG:  */
     background-color: rgb(26, 188, 156);
   }
 
@@ -59,4 +59,14 @@
     #start div p {
       color: white;
       font-size: 24px;
+    }
+
+    /* portfolio */
+    #portfolio {
+      text-align: center;
+    }
+    #portfolio h1 {
+      color: rgb(44, 62, 80);
+      font-size: 48px;
+      font-weight: bold;
     }
